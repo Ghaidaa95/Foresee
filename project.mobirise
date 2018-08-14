@@ -37,7 +37,9 @@
     "versionFirst": "4.8.1",
     "siteFonts": [],
     "uniqCompNum": 70,
-    "versionPublish": "4.8.1"
+    "versionPublish": "4.8.1",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/sara/Desktop/WM/pre/Foresee"
   },
   "pages": {
     "index.html": {
